@@ -7,6 +7,7 @@ const HomeComp = () => {
             <Hero/>
             <Card/>
 
+
         </div>
     )
 }

@@ -1,8 +1,13 @@
 
 const Card = () => {
     return (
-        <div>
-            Card
+        <div >
+            <div>
+
+                 Card
+
+            </div>
+           
 
         </div>
     )

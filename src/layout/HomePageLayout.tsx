@@ -4,6 +4,7 @@ import { Footer, Header } from "../component/block"
 const HomePageLayout= () => {
     return (
         <div>
+             
             <Header/>
             <Outlet/>
             <Footer/>
